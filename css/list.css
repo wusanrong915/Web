@@ -1,0 +1,177 @@
+  *{
+        margin:0px auto;
+        padding: 0px;
+        font-size: 12px;
+        border: none;
+        color: #522a06;
+    }
+    body{
+    background-image: url(../images1/bodybg.gif);
+    font-size: 12px;
+    font-family: '宋体'；
+    background-repeat: repeat-x;
+    text-align: center;
+    }
+    #header{
+    height: 205px;
+    }
+    #banner{
+    background-image: url(../images1/bg.gif);
+    background-position: top center;
+    }
+    #logo{
+    padding-top: 38px;
+    padding-left: 25px;
+    float:z-index;
+    text-align: left;
+    }
+    #nav{
+    height: 40px;
+    background-image: url(../images1/nav.jpg);
+    }
+    .nav_body{
+    width: 1000px;
+    align-content: center;
+    }
+    .nav_content{
+    width: 800px;
+    font-weight: bolder;
+    color: #fff;
+    line-height: 40px;
+    float: left;
+    }
+    a:link{text-decoration: none;}
+    a:hover{text-decoration: underline; color:#f9f603;}
+    #mie{
+    color: #f9f603;
+    }
+    .search{
+    float: left;
+    padding-top: 10px;
+    }
+    .mou{
+    width: 140px;
+    height: 19px;
+    background-color: #f8f5ee;
+    float: left;
+    }
+    .miao{
+    width: 44px;
+    height: 21px;
+    background-color: black;
+    color: #fff;
+    border: 1px solid #f8f5ee;
+    float: left;
+    }
+    #content{
+        width: 1000px;
+        overflow: hidden;
+    }
+    .content_left{
+        width: 200px;
+        float: left;
+        margin-left: 80px;
+    }
+    .one{
+        height: 40px;
+        line-height: 40px;
+        padding-left: 43px;
+        text-align: left;
+    }
+    .two{
+    	width: 200px;
+        margin:0px auto;
+        float: left;
+        margin-left: 16px;
+        line-height: 25px;
+        background-image: url(../images1/fengcai_bg2.png);
+        background-size: 100% 100%;
+    }	
+    .mi{
+    	color: red;
+    	background-image: url(../images1/menubg.gif)
+    }	
+    .three{
+    	background-image: url(../images1/fengcai_bg2.png);
+    	width: 200px;
+    	margin:0px auto;
+        float: left;
+        margin-left: 16px;
+        margin-top: 40px;
+        line-height: 25px;
+
+    }
+    .four{
+    	margin:0px auto;
+        float: left;
+        margin-left: 16px;
+        margin-top: 40px;
+        line-height: 25px;
+    }
+    .content_right{
+    	width: 700px;
+        float: left;
+        margin-left: 20px;
+    }
+    .yi{
+    	background-image: url(../images1/listtitle.png);
+    	width: 700px;
+    	margin-top: 40px;
+    	text-align: left;
+    	padding-left: 20px;padding-top: 10px;padding-bottom: 10px;
+    	background-size: 100% 100%;
+    }
+    .er{
+    	width: 800px;
+        float: left;
+        margin-left: 15px;
+    }
+    .er1{
+    	width: 200px;
+    	padding-right: 300px;
+    	float: left;
+    	margin-top: 20px;
+    	line-height: 25px;
+    	margin-left: 15px;
+    }
+    .er2{
+    	width: 150px;
+    	float: left;
+    	line-height: 25px;
+    	margin-top: 20px;
+    	margin-left: 30px;
+    }
+    .san1{
+    	float: left;
+    	width: 700px;
+    	margin-left: 150px;
+    	margin-top: 30px;
+    }
+    .san{
+    	border: 1px solid #522a06;
+    	float: left;
+    	width: 30px;
+    	margin-left: 5px;
+    }
+    .san2{
+    	float: left;
+    	width: 30px;
+    	margin-left: 5px;
+    }
+    .san3{
+    	float: left;
+    	width: 30px;
+    	margin-left: 5px;
+    }
+    .san4{
+    	float: left;
+    	width: 30px;
+    	margin-left: 5px;
+    }
+    #footer{
+    height: 150px;
+    clear: both;
+    background-image: url(../images/foot.gif);
+    margin-left: 100px;
+    padding-top: 50px;
+}

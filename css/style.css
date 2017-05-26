@@ -1,9 +1,10 @@
-       
+ *{
+    color: #522a06;
+ }      
 body{
     background-image: url(../images/bodybg.gif);
     font-size: 12px;
-    font-family: '宋体'；
-    color: #522a06;
+    font-family: '宋体'； 
     }
 #header{
     height: 205px;
@@ -58,7 +59,7 @@ a:hover{text-decoration: none; color:#f9f603;}
 #content{
     width: 1000px;
     clear: both;
-    margin:0px auto
+    margin:0px auto;
     }
 #content_top{
     overflow: hidden;
